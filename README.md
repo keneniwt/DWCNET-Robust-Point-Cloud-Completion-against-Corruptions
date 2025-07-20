@@ -1,7 +1,6 @@
 # Denoising-While-Completing-Network(DWCNET):Robust-Point-Cloud-Completion-against-Corruptions 
 
-### This repository contains PyTorch implementation for Denoising-While-Completing-Network(DWCNET):Robust-Point-Cloud-Completion-against-Corruptions.
-[ArXiv]()
+### This repository contains PyTorch implementation for Denoising-While-Completing-Network(DWCNET):Robust-Point-Cloud-Completion-against-Corruptions.[ArXiv]()
 Point cloud completion is crucial for 3D computer vision tasks in autonomous driving, augmented reality, and robotics. However, obtaining clean and complete point clouds from real-world environments is challenging due to noise and occlusions. Consequently, most existing completion networks—trained on synthetic data—struggle with real-world degradations. In this work, we tackle the problem of completing and denoising highly corrupted partial point clouds affected by multiple simultaneous degradations. To benchmark robustness, we introduce the Corrupted Point Cloud Completion Dataset (CPCCD), which highlights the limitations of current methods under diverse corruptions. Building on these insights, we propose DWCNet (Denoising-While-Completing Network), a completion framework enhanced with a Noise Management Module (NMM) that leverages contrastive learning and self-attention to suppress noise and model structural relationships. DWCNet achieves state-of-the-art performance on both corrupted synthetic and real-world datasets. 
 
 ![Teaser Pic](./mainbeforefinetuning-Page-2.drawio)
@@ -12,6 +11,12 @@ Our Corrupted-Point-Cloud-Completion-Dataset(CPCCD) can be downloaded [here](htt
 
 ## Code
 ##### Coming Soon!
+
+## Licence
+MIT Licence
+
+## Citation
+If your find our work useful, please consider citing:
 
 
 
