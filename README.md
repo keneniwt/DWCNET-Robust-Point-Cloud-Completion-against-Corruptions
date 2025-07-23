@@ -5,7 +5,7 @@ Point cloud completion is crucial for 3D computer vision tasks in autonomous dri
 
 ## Dataset
 
-Our Corrupted-Point-Cloud-Completion-Dataset(CPCCD) can be downloaded [here](https://zenodo.org/records/16085700?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhkZTc1OTc4LWMwZWUtNDAxYS1hNDk5LTY2MjIzZWUyZWMzMSIsImRhdGEiOnt9LCJyYW5kb20iOiI1NTQ5NjQzYTFiODhlODg2ZmM0NjZkZDAzNmNiM2IxOCJ9.fdDDCKOgizn-FFAl80c_PCAOCoggpIgNwMdyrMATihoYhZGlI6CgWSi8GRkmIIpoWKhnDVPc5IPuViq6EbMKZQ). Our datasets is based on the PCN completion benchmark dataset which can be downloaded [here](https://gateway.infinitescript.com/s/ShapeNetCompletion).  
+Our Corrupted-Point-Cloud-Completion-Dataset(CPCCD) can be downloaded [here] (https://zenodo.org/records/16085700). Our datasets is based on the PCN completion benchmark dataset which can be downloaded [here](https://gateway.infinitescript.com/s/ShapeNetCompletion).  
 
 ## Code
 ##### Coming Soon!
