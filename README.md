@@ -16,15 +16,18 @@ MIT Licence
 ## Citation
 If your find our work useful, please consider citing: 
 
+
+```bibtex
 @misc{tesema2025denoisingwhilecompletingnetworkdwcnetrobust,
-      title={Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption}, 
-      author={Keneni W. Tesema and Lyndon Hill and Mark W. Jones and Gary K. L. Tam},
-      year={2025},
-      eprint={2507.16743},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.16743}, 
+  title={Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption}, 
+  author={Keneni W. Tesema and Lyndon Hill and Mark W. Jones and Gary K. L. Tam},
+  year={2025},
+  eprint={2507.16743},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2507.16743}, 
 }
+
 
 
 
