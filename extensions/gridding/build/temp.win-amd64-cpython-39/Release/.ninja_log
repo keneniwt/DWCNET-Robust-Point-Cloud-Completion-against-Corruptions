@@ -1,0 +1,4 @@
+# ninja log v5
+4	6464	7340380891009012	D:/neurIPS/PoinTr/extensions/gridding/build/temp.win-amd64-cpython-39/Release/gridding_cuda.obj	2a6b323dc553f03d
+0	19247	7340381018658892	D:/neurIPS/PoinTr/extensions/gridding/build/temp.win-amd64-cpython-39/Release/gridding.obj	ef95440f926937eb
+10	20461	7340391598004720	D:/neurIPS/PoinTr/extensions/gridding/build/temp.win-amd64-cpython-39/Release/gridding_reverse.obj	73557ccff2b2eaa
