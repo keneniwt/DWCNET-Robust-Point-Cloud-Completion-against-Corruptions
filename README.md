@@ -24,9 +24,6 @@ MIT Licence
 ## Citation
 If your find our work useful, please consider citing: 
 
-## Acknowledgement
-Some codes are borrowed from PoinTr and GrNet. 
-
 ```bibtex
 @misc{tesema2025denoisingwhilecompletingnetworkdwcnetrobust,
   title={Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption}, 
@@ -37,6 +34,7 @@ Some codes are borrowed from PoinTr and GrNet.
   primaryClass={cs.CV},
   url={https://arxiv.org/abs/2507.16743}, 
 }
+```
 
-
-
+## Acknowledgement
+Some codes are borrowed from [PoinTr](https://github.com/raember/AdaPoinTr) and [GrNet](https://github.com/hzxie/GRNet). 
