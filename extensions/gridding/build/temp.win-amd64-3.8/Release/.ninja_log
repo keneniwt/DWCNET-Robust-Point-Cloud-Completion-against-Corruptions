@@ -1,0 +1,4 @@
+# ninja log v5
+5	10496	7526781239099691	D:/AAAI/OMGNet/PoinTr/extensions/gridding/build/temp.win-amd64-3.8/Release/gridding_cuda.obj	67364cd69192bcbc
+10	27893	7526781412669604	D:/AAAI/OMGNet/PoinTr/extensions/gridding/build/temp.win-amd64-3.8/Release/gridding_reverse.obj	4f0853d3948b9687
+8	27907	7526781412669604	D:/AAAI/OMGNet/PoinTr/extensions/gridding/build/temp.win-amd64-3.8/Release/gridding.obj	3c1d6d48b4bcc883
