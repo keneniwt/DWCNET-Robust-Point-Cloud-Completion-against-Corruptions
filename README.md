@@ -24,6 +24,8 @@ MIT Licence
 ## Citation
 If your find our work useful, please consider citing: 
 
+## Acknowledgement
+Some codes are borrowed from PoinTr and GrNet. 
 
 ```bibtex
 @misc{tesema2025denoisingwhilecompletingnetworkdwcnetrobust,
@@ -35,11 +37,6 @@ If your find our work useful, please consider citing:
   primaryClass={cs.CV},
   url={https://arxiv.org/abs/2507.16743}, 
 }
-
-## Acknowledgement
-Some codes are borrowed from PoinTr and GrNet. 
-
-
 
 
 
