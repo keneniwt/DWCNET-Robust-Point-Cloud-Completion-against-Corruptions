@@ -17,15 +17,11 @@ Point cloud completion is crucial for 3D computer vision tasks in autonomous dri
   </tr>
   <!-- Row 2: GIFs -->
   <tr>
-    <td><img src="./images/01Picture1.gif"</td>
+    <td>./images/01Picture1.gif</td>
     <td><img src="./images/02Picture2.gif"</td>
     <td><img src="./images/03Picture3.gif"</td>
     <td><img src="./images/04Picture8.gif"</td>
     <!-- Row 3: Images -->
-  <tr>
-    <td><img src="./images/01Picture4.png" widthg src="./images/02Picture5.png" width="ges/03Picture7.png</td>
-    <td><img src="./images/04Picture
-  </tr>
 </table>
 
 
