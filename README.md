@@ -8,7 +8,24 @@ Accepted for Computers and Graphics and EG Symposium on 3D Object Retrieval 2025
 Point cloud completion is crucial for 3D computer vision tasks in autonomous driving, augmented reality, and robotics. However, obtaining clean and complete point clouds from real-world environments is challenging due to noise and occlusions. Consequently, most existing completion networks—trained on synthetic data—struggle with real-world degradations. In this work, we tackle the problem of completing and denoising highly corrupted partial point clouds affected by multiple simultaneous degradations. To benchmark robustness, we introduce the Corrupted Point Cloud Completion Dataset (CPCCD), which highlights the limitations of current methods under diverse corruptions. Building on these insights, we propose DWCNet (Denoising-While-Completing Network), a completion framework enhanced with a Noise Management Module (NMM) that leverages contrastive learning and self-attention to suppress noise and model structural relationships. DWCNet achieves state-of-the-art performance on both corrupted synthetic and real-world datasets. 
 
 <img width="4009" height="2977" alt="completion results before finetuning" src="https://github.com/user-attachments/assets/81194ecf-76fa-4299-a80c-72bf8c1e1bfd" />
-<img width="4169" height="3084" alt="completion results after finetuning" src="https://github.com/user-attachments/assets/7f89f21e-0044-45fc-8383-51eb51c0e696" />
+<!--<img width="4169" height="3084" alt="completion results after finetuning" src="https://github.com/user-attachments/assets/7f89f21e-0044-45fc-8383-51eb51c0e696" />-->
+
+<!-- Row 1: Subtitles -->
+<table>
+  <tr>
+    <th>AdaPoinTr_before_finetuning</th>
+    <th>AdaPoinTR_after_finetuning</th>
+    <th>DWCNET</th>
+    <th>Groundtruth</th>
+  </tr>
+
+<!-- Row 2: GIFs -->
+  <tr>
+    <td><img src="./images/01Picture1.gif" widthg src="./images/02Picture2.gif"td><img src="./images/03Picture3.gif"   <td><img src="./images/04Picture8.gif"r>
+
+<!-- Row 3: Images -->
+  <tr>
+    <td><img src="./images/01Picture4.png" widthg src="./images/02Picture5.png" widthg src= "./images/03Picture7"    <td><img src="./images/04Picture9.png"r>
 
 
 ## Dataset
